@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzKataNetCore", "FizzBuzzKataNetCore\FizzBuzzKataNetCore.csproj", "{61D80625-79DD-424B-9C13-8EF84CFB31EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D80625-79DD-424B-9C13-8EF84CFB31EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D80625-79DD-424B-9C13-8EF84CFB31EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D80625-79DD-424B-9C13-8EF84CFB31EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D80625-79DD-424B-9C13-8EF84CFB31EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE08BF7A-BA78-4514-9479-553C238D6BD7}
+	EndGlobalSection
+EndGlobal
